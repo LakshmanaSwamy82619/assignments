@@ -1,6 +1,4 @@
-#!/bin/bash
-
-file="books.txt"
+ile="books.txt"
 
 while true
 do
