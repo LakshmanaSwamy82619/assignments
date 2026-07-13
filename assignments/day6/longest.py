@@ -1,8 +1,5 @@
 def find_longest_word(sentence):
-    # This function finds and returns the longest word in a sentence.
     words = sentence.split()  # Split the sentence into words using whitespace.
-
-    # Start with an empty string so that the first word will become the longest.
     longest_word = ""
 
     # Check each word and compare its length.
